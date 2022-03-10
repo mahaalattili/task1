@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق</string>
+    <string name="hello">مرحبا, سجل دخول</string>
+    <string name="mail">الايميل</string>
+    <string name="name">الاسم</string>
+    <string name="log">سجل دخول </string>
+    <string name="qq">اليس لديك تطبيق </string>
+    <string name="qq1">سجل دخول </string>
+
+</resources>

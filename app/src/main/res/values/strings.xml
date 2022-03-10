@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application11</string>
+    <string name="hello">welcome back,login</string>
+    <string name="mail">mail</string>
+    <string name="name">name</string>
+    <string name="log">login </string>
+    <string name="qq">dont have account </string>
+    <string name="qq1">sign up </string>
+</resources>
